@@ -1,9 +1,9 @@
 {
     "env": {
-        "DB_USER": "3pixel",
-        "DB_PASSWORD": "leeueenlategan",
+        "DB_USER": "MONGODB USER",
+        "DB_PASSWORD": "MONGODB PASSWORD",
         "DB_NAME": "mern",
-        "GOOGLE_API_KEY": "AIzaSyBgEK9T1EQ2TgSjzH1ZywAhURlMyyAXktA",
+        "GOOGLE_API_KEY": "ENTER GOOGLE API KEY",
         "JWT_KEY": "supersecret_dont_share"
     }
 }
